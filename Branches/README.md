@@ -13,7 +13,7 @@ Reset to branch 0.
 
 ## Active
 
-[master](https://github.com/seanpm2001/SeansLifeArchive_Images_Clash-of-Clans/tree/master/)
+[main](https://github.com/seanpm2001/SeansLifeArchive_Images_Clash-of-Clans/tree/main/)
 
 ## Stale
 
@@ -23,6 +23,6 @@ Reset to branch 0.
 
 ***
 
-**File version:** `1 (2022, Sunday, April 3rd at 2:47 pm)`
+**File version:** `2 (2022, Sunday, April 3rd at 2:50 pm)`
 
 ***

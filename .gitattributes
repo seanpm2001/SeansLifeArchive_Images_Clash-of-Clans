@@ -8,6 +8,9 @@
 # Elixir (Duplicate, as it is already detected by GitHub Linguist by default)
 *.ex linguist-detectable=true
 *.ex linguist-documentation=false
+*.ex linguist-language=Elixir
+# Some files were detected as Euphoria instead of Elixir. This is also the third time I am using this parameter.
+# YAML (YAML Ain't Markup Language)
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
 *.yml linguist-documentation=false
@@ -33,6 +36,21 @@
 *.make linguist-documentation=false
 *.makefile linguist-detectable=false
 *.makefile linguist-documentation=false
+# ReStructuredText
+*.rst linguist-detectable=false
+*.rst linguist-documentation=false
+# SVG
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+# INI
+*.ini linguist-detectable=false
+*.ini linguist-documentation=false
+# KDE Desktop entry
+*.desktop linguist-detectable=false
+*.desktop linguist-documentation=false
+# WikiText
+*.wiki linguist-detectable=false
+*.wiki linguist-documentation=false
 # HTML5
 # Do not include, as it is not needed to be shown
 *.htm linguist-detectable=false
@@ -47,9 +65,14 @@
 *.xhtm linguist-documentation=false
 *.xhtml linguist-detectable=false
 *.xhtml linguist-documentation=false
+# LaTeX & BibTeX
+*.tex linguist-detectable=false
+*.tex linguist-documentation=false
+*.bib linguist-detectable=false
+*.bib linguist-documentation=false
 # End of linguist script
 # File info
-# File type: .gitattributes file
-# File version: 2 (Sunday, 2022 February 27th at 6:53 pm)
-# Line count (including blank lines and compiler line): 56
+# File type: gitattributes file (*.gitattributes)
+# File version: 3 (Sunday, 2022 April 17th at 7:28 pm)
+# Line count (including blank lines and compiler line): 59
 # End of script

@@ -69,7 +69,7 @@ I did some upgrades in my main village, upgrading some more walls (4) to level 1
 
 </details>
 
-I did some upgrades in my main village, upgrading some more walls (4) to level 11 for 500,000 elixir each, and began upgrading my level 8 mortar to a multi-mortar for 8 million gold. I became really bummed out, as I spent 1246 gems to get the remaining gold for the upgrade. Despite the fact that the gems won't get spent on anything if this doesn't happen, it is still hard to lose 1000 gems, especially as a free to play. The upgrade will complete in 2 weeks. I spent nearly half an hour or longer collecting from gold mines and elixir collectors, so that I would have some resources stocked up further in the base. It was pretty pointless, but I used to enjoy doing this a long time ago from time to time. - 2022 May 8th
+I did some upgrades in my main village, upgrading some more walls (4) to level 11 for 500,000 elixir each, and began upgrading my level 8 mortar to a multi-mortar for 8 million gold. I became really bummed out, as I spent 1246 gems to get the remaining gold for the upgrade. Despite the fact that the gems won't get spent on anything if this doesn't happen, it is still hard to lose 1000 gems, especially as a free to play. The upgrade will complete in 2 weeks. I spent nearly half an hour or longer collecting from gold mines and elixir collectors, so that I would have some resources stocked up further in the base. It was pretty pointless, but I used to enjoy doing this a long time ago from time to time. The game had to be updates today. Also, I accidentally deleted screenshots 51 to 100 before the transfer, they no longer exist, and I am very disappointed in myself. - 2022 May 8th
 
 ## Builder base
 

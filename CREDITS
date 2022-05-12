@@ -1,22 +1,44 @@
 
----
+----
+
+== Credits ==
 
 {{int:version-credits-summary}}
+
 Seans Life Archive / Images / Clash of Clans is NOT a collaborative project but it IS released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
 
-This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
 
 == Maintainers ==
+
 <!-- BEGIN MAINTAINERS LIST !-->
 
 1. @seanpm2001 - Creator and primary maintainer of Seans Life Archive / Images / Clash of Clans
-2. No other contributors as of Sunay, August 22nd 2021
+
+2. @all-contributors[bot] - Keeps up with crediting contributors
+
+3. No other contributors as of 2022, Wednesday, May 11th at 7:26 pm PST
 
 == Contributors ==
-<!-- BEGIN CONTRIBUTOR LIST -->
-1. @seanpm2001
-2. @GitHub (for being the first host of this project)
-3. @SUPERCELL (Not on GitHub, but crediting them, as they made the game I am documenting here)
-4. No other contributors as of Sunday, August 22nd 2021
 
----
+<!-- BEGIN CONTRIBUTOR LIST -->
+
+1. @seanpm2001
+
+2. @all-contributors[bot] - Keeps up with crediting contributors
+
+3. @GitHub (For GitHub, and for being the first host of this project)
+
+4. @SUPERCELL (Not on GitHub, but crediting them, as they made the game I am documenting here)
+
+5. No other contributors as of 2022, Wednesday, May 11th at 7:26 pm PST
+
+=== File info ===
+
+<b>File type:</b> <i>MediaWiki document (*.wiki)</i>
+
+<b>File version:</b> <i>2 (2022, Wednesday, May 11th at 7:26 pm PST)</i>
+
+<b>Line count (including blank lines and compiler line):</b> <i>45</i>
+
+----

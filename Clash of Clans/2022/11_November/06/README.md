@@ -121,9 +121,11 @@ I did some upgrades in my main village, upgrading an inferno tower to level 2 fo
 
 I did some upgrades in my main village, upgrading an air sweeper to level 6 for 2.5 million gold. It appears that one of my buildings was deleted, but I can't figure out what it was. I also upgraded 5 walls to level 10 for 500,000 elixir each, 2,500,000 elixir total, and my archer queen to level 25 for 50,000 dark elixir. There weren't any gemboxes available this week. - 2022, Sunday, October 23rd
 
+I did some upgrades in my main village, upgrading a seeking air mine to level 3 for 2.1 million gold. I also upgraded 5 walls to level 10 for 500,000 elixir each, 2,500,000 elixir total. There was 1 gembox available this week. - 2022, Sunday, October 30th
+
 </details>
 
-I did some upgrades in my main village, upgrading a seeking air mine to level 3 for 2.1 million gold. I also upgraded 5 walls to level 10 for 500,000 elixir each, 2,500,000 elixir total. There was 1 gembox available this week. - 2022, Sunday, October 30th
+I did some upgrades in my main village, upgrading an air defense system to level 8 for 3.0 million gold. I also upgraded 5 walls to level 10 for 500,000 elixir each, 2,500,000 elixir total. There was 1 gembox available this week. - 2022, Sunday, November 6th
 
 ### Home village battles
 
@@ -131,7 +133,7 @@ I did some upgrades in my main village, upgrading a seeking air mine to level 3 
 
 I did not start any battles in the home village, or get attacked by anyone since I last played. - 2022, Sunday, May 29th to 2022, Sunday, October 30th
 
-I feel like I am not visible to other players for attacks at all anymore.
+I feel like I am not visible to other players for attacks at all anymore. I did not start any battles in the home village, or get attacked by anyone since I last played. - 2022, Sunday, November 6th to 2022, Sunday, November 6th
 
 ### Gems
 

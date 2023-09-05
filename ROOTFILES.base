@@ -3,6 +3,7 @@
 /Clash of Clans/
 /Docs/
 /External/
+/Legal/
 /OldVersions/
 /RepoData/
 /.all-contributorsrc
@@ -16,6 +17,7 @@
 /AUTHORS
 /AUTHORS.md
 /AUTOMATE2001.yml
+/AUTOMATE2001.yaml
 /CITATION.cff
 /CONTRIBUTING.md
 /COPYINGL
@@ -27,6 +29,7 @@
 /INSTALL
 /INSTALL.rst
 /K.desktop
+/LEGAL_DISCLAIMER.md
 /LICENSE-GPL.ex
 /LICENSE-GPL.exs
 /LICENSE-GPL.txt
